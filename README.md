@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Jeferson barbosa
+- 👋 Hi, I’m   Jeferson Barbosa
 - 👀 I’m interested in  tecnologia
 - 🌱 I’m currentlmente criando projetos na área da programação
 - 💞️ I’m looking to collaborate on projetos  frontend e backend
