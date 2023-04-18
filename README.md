@@ -8,4 +8,3 @@
   ![jeferson](https://github-readme-stats.vercel.app/api?username=jeffcolyn&show_icons=true&theme=radical)
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffcolyn&hide_progress=true&theme)](https://github.com/anuraghazra/github-readme-stats)
