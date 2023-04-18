@@ -1,4 +1,4 @@
-👋Olá, sou Jeferson Barbosa
+👋Olá, sou Jeferson Barbosa<br>
 👀Estou interessado em tecnologia
 🌱Atualmente estou criando projetos na área da programação
 💞️Procuro colaborar em projetos frontend e backend
